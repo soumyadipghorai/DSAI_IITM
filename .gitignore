@@ -1,10 +1,14 @@
-week2/data
-week1/california_housing_test.csv
-week2/mnist_train_small.csv
-week4/data
-week3/PlantVillage
-week5/custom_tokenizer
-week5/tmp_trainer
-week5/gpt2-wikitext-finetuned
-week10/house_price.csv
-week10/TATAMOTORS_NSE_1995-2025.csv
+computer_vision/data
+machine_learning/data
+deep_learning/PlantVillage
+LM_finetuning/custom_tokenizer
+LM_finetuning/tmp_trainer
+LM_finetuning/gpt2-wikitext-finetuned
+gcp_spark/*.csv
+numpy_pandas/*.csv
+time_series_forecasting/*.csv
+machine_learning/*.csv
+docker_kubernetes/*.joblib
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
