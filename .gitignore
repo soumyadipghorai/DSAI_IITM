@@ -1,6 +1,7 @@
 computer_vision/data
 machine_learning/data
 deep_learning/PlantVillage
+deep_learning/PlantVillage/Potato___Early_blight/*.JPG
 LM_finetuning/custom_tokenizer
 LM_finetuning/tmp_trainer
 LM_finetuning/gpt2-wikitext-finetuned
